@@ -3,9 +3,10 @@ Built predictive models of a categorical nursery dataset and a continuous leaf d
 
 * [Analysis.pdf](Analysis.pdf) is a report describing the techniques used and the results of the comparison.
 
-* [categorical_sklearn_script.py](categorical_sklearn_script.py) produces models of categorical dataset [nursery.data](nursery.data).
+* [categorical_sklearn_script.py](categorical_sklearn_script.py) produces models of categorical dataset [nursery.data](nursery.data) [(source)](https://archive.ics.uci.edu/ml/datasets/nursery).
 
-* [continuous_sklearn_script.py](continuous_sklearn_script.py) produces models of categorical dataset [leaf.csv](leaf.csv).
+* [continuous_sklearn_script.py](continuous_sklearn_script.py) produces models of categorical dataset [leaf.csv](leaf.csv)
+[(source)](https://archive.ics.uci.edu/ml/datasets/leaf).
 
 * [nursery_tree.png](nursery_tree.png) and [leaf_tree.png](leaf_tree.png) are visualizations of the decision trees produced by
 the python scripts.
